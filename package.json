@@ -47,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-elasticsearch-new.git"
+    "url": "git+https://github.com/zhangshiqiu/egg-elasticsearch-new.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/zhangshiqiu/egg-elasticsearch-new/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-elasticsearch-new#readme",
+  "homepage": "https://github.com/zhangshiqiu/egg-elasticsearch-new#readme",
   "author": "zsq",
   "license": "MIT"
 }
