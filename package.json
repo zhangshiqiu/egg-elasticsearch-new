@@ -1,6 +1,6 @@
 {
   "name": "egg-elasticsearch-new",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "elasticsearch plugin for new",
   "eggPlugin": {
     "name": "elasticsearch"
